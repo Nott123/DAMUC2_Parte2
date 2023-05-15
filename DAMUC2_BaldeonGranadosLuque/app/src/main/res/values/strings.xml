@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DAMUC2_BaldeonGranadosLuque</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="radiobuton_IS">Ingeniería de Sistemas</string>
+    <string name="radiobuton_IA">Ingeniería Ambiental</string>
+    <string name="radiobuton_IM">Ingeniería Mecánica</string>
+    <string name="radiobuton_ADM">Administración</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_Internet">Internet</string>
+    <string name="checkbox_Amigo">Amigo</string>
+    <string name="checkbox_Publicidad">Publicidad</string>
+</resources>
